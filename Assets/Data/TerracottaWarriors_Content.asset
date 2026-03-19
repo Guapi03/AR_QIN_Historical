@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c7017024f382d42c3a1dcab615b9b9b4, type: 3}
+  m_Name: TerracottaWarriors_Content
+  m_EditorClassIdentifier: 
+  descriptionImage: {fileID: 21300000, guid: 5b254382f773345fa8cbdbb9cfc76418, type: 3}
+  audioClip: {fileID: 8300000, guid: f99b1377df97f4b3c8701c61ddc4ab83, type: 3}
