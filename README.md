@@ -4,7 +4,7 @@ Augmented Reality Learning App: Qin Shi Huang
 ## 📷 AR Preview
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/3b2254c6-0b3e-423f-937a-9e58fecd8f6" width="250"/>
+  <img src="https://github.com/user-attachments/assets/926122dc-975b-48c9-9519-56f496d789b0" width="250"/>
   <img src="https://github.com/user-attachments/assets/9692a868-cf99-4646-b7ec-b847b688ce54" width="250"/>
   <img src="https://github.com/user-attachments/assets/f1a8184b-4468-48e0-8819-cf630598ead4" width="250"/>
 </p>
