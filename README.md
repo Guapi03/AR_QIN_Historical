@@ -1,4 +1,3 @@
-Project Title
 Augmented Reality Learning App: Qin Shi Huang
 
 🖼️ Image Target Example
