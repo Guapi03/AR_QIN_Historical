@@ -4,12 +4,12 @@ Augmented Reality Learning App: Qin Shi Huang
 ## 📷 AR Preview
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/99576c45-d526-4283-a16c-fa7960d23222" width="250"/>
-  <img src="https://github.com/user-attachments/assets/c264760c-fc32-4f45-80b8-7dd750e58e49" width="250"/>
-  <img src="https://github.com/user-attachments/assets/900240f8-8903-4a73-8197-4dc946b02f49" width="250"/>
+  <img src="https://github.com/user-attachments/assets/3b2254c6-0b3e-423f-937a-9e58fecd8f6" width="250"/>
+  <img src="https://github.com/user-attachments/assets/9692a868-cf99-4646-b7ec-b847b688ce54" width="250"/>
+  <img src="https://github.com/user-attachments/assets/f1a8184b-4468-48e0-8819-cf630598ead4" width="250"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a42ff621-751e-42b4-9908-1a97dd630128" width="250"/>
-  <img src="https://github.com/user-attachments/assets/43eadebc-4a3e-4a74-8dd0-a75b250c865a" width="250"/>
+  <img src="https://github.com/user-attachments/assets/1dceb1bd-7273-4b48-b3c3-8e33cb80c36b" width="250"/>
+  <img src="https://github.com/user-attachments/assets/2d53c573-c64c-4fe4-8293-2b91077a035d" width="250"/>
 </p>
