@@ -2,7 +2,6 @@ Project Title
 Augmented Reality Learning App: Qin Shi Huang
 
 🖼️ Image Target Example
-The application uses printed image targets to trigger AR content.
 ## 📷 AR Preview
 
 <p align="center">
